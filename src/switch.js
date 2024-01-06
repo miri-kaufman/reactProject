@@ -48,6 +48,6 @@ const AntSwitch = styled(Switch)(({ theme }) => ({
 
 export default function CustomizedSwitches() {
   return (
-  <h1>67890-[]</h1>
+  <p>this is a conflict 2</p>
   );
 }
