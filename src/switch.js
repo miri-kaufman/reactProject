@@ -48,6 +48,6 @@ const AntSwitch = styled(Switch)(({ theme }) => ({
 
 export default function CustomizedSwitches() {
   return (
-  <p>this is a conflict</p>
+  <p>this is a conflict 2</p>
   );
 }
